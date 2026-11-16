@@ -1,0 +1,97 @@
+{
+  "name": "Maintenance prédictive",
+  "dataColors": [
+    "#1F4E79",
+    "#9DB4CC",
+    "#C0392B",
+    "#E67E22",
+    "#27AE60",
+    "#5B7A99",
+    "#7F8C8D",
+    "#2E86C1"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2A44",
+  "tableAccent": "#1F4E79",
+  "good": "#27AE60",
+  "neutral": "#E67E22",
+  "bad": "#C0392B",
+  "maximum": "#1F4E79",
+  "center": "#9DB4CC",
+  "minimum": "#EAF0F6",
+  "textClasses": {
+    "callout": {
+      "fontSize": 26,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2A44"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2A44"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2A44"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#5B6B7F"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E3E8EF"
+              }
+            },
+            "radius": 8
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#1F2A44"
+              }
+            },
+            "fontSize": 12
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F4F6F9"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

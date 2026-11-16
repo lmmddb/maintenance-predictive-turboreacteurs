@@ -1,0 +1,21 @@
+# Notes personnelles et PDF sous droits d'auteur : restent sur ce poste
+perso/
+
+# Rapport Power BI : généré sur chaque poste (il contient le chemin local des données)
+rapport/
+
+# Modèles entraînés : recréés par le notebook 02
+outputs/models/
+
+# Python, Jupyter, outils
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.ruff_cache/
+.venv/
+venv/
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini

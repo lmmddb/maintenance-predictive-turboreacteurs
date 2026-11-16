@@ -1,0 +1,1461 @@
+jour;stock;position;seuil;en_attente;politique
+365;13;25;21;0;Classique [R, Q]
+366;13;25;21;0;Classique [R, Q]
+367;13;25;21;0;Classique [R, Q]
+368;12;24;21;0;Classique [R, Q]
+369;11;23;21;0;Classique [R, Q]
+370;11;23;21;0;Classique [R, Q]
+371;11;23;21;0;Classique [R, Q]
+372;10;22;21;0;Classique [R, Q]
+373;9;27;21;0;Classique [R, Q]
+374;8;26;21;0;Classique [R, Q]
+375;8;26;21;0;Classique [R, Q]
+376;8;26;21;0;Classique [R, Q]
+377;8;26;21;0;Classique [R, Q]
+378;13;25;21;0;Classique [R, Q]
+379;12;24;21;0;Classique [R, Q]
+380;12;24;21;0;Classique [R, Q]
+381;11;23;21;0;Classique [R, Q]
+382;9;27;21;0;Classique [R, Q]
+383;9;27;21;0;Classique [R, Q]
+384;8;26;21;0;Classique [R, Q]
+385;6;24;21;0;Classique [R, Q]
+386;6;24;21;0;Classique [R, Q]
+387;6;24;21;0;Classique [R, Q]
+388;6;24;21;0;Classique [R, Q]
+389;5;23;21;0;Classique [R, Q]
+390;5;23;21;0;Classique [R, Q]
+391;7;25;21;0;Classique [R, Q]
+392;7;25;21;0;Classique [R, Q]
+393;7;25;21;0;Classique [R, Q]
+394;7;25;21;0;Classique [R, Q]
+395;4;22;21;0;Classique [R, Q]
+396;2;26;21;0;Classique [R, Q]
+397;2;26;21;0;Classique [R, Q]
+398;2;26;21;0;Classique [R, Q]
+399;2;26;21;0;Classique [R, Q]
+400;2;26;21;0;Classique [R, Q]
+401;2;26;21;0;Classique [R, Q]
+402;2;26;21;0;Classique [R, Q]
+403;8;26;21;0;Classique [R, Q]
+404;7;25;21;0;Classique [R, Q]
+405;7;25;21;0;Classique [R, Q]
+406;6;24;21;0;Classique [R, Q]
+407;6;24;21;0;Classique [R, Q]
+408;6;24;21;0;Classique [R, Q]
+409;6;24;21;0;Classique [R, Q]
+410;6;24;21;0;Classique [R, Q]
+411;6;24;21;0;Classique [R, Q]
+412;12;24;21;0;Classique [R, Q]
+413;12;24;21;0;Classique [R, Q]
+414;12;24;21;0;Classique [R, Q]
+415;12;24;21;0;Classique [R, Q]
+416;11;23;21;0;Classique [R, Q]
+417;11;23;21;0;Classique [R, Q]
+418;11;23;21;0;Classique [R, Q]
+419;11;23;21;0;Classique [R, Q]
+420;10;22;21;0;Classique [R, Q]
+421;14;26;21;0;Classique [R, Q]
+422;14;26;21;0;Classique [R, Q]
+423;14;26;21;0;Classique [R, Q]
+424;11;23;21;0;Classique [R, Q]
+425;11;23;21;0;Classique [R, Q]
+426;17;23;21;0;Classique [R, Q]
+427;17;23;21;0;Classique [R, Q]
+428;17;23;21;0;Classique [R, Q]
+429;17;23;21;0;Classique [R, Q]
+430;17;23;21;0;Classique [R, Q]
+431;17;23;21;0;Classique [R, Q]
+432;16;22;21;0;Classique [R, Q]
+433;16;22;21;0;Classique [R, Q]
+434;15;27;21;0;Classique [R, Q]
+435;11;23;21;0;Classique [R, Q]
+436;11;23;21;0;Classique [R, Q]
+437;9;27;21;0;Classique [R, Q]
+438;7;25;21;0;Classique [R, Q]
+439;7;25;21;0;Classique [R, Q]
+440;7;25;21;0;Classique [R, Q]
+441;7;25;21;0;Classique [R, Q]
+442;5;23;21;0;Classique [R, Q]
+443;4;22;21;0;Classique [R, Q]
+444;4;22;21;0;Classique [R, Q]
+445;4;22;21;0;Classique [R, Q]
+446;4;22;21;0;Classique [R, Q]
+447;4;22;21;0;Classique [R, Q]
+448;4;22;21;0;Classique [R, Q]
+449;4;22;21;0;Classique [R, Q]
+450;4;22;21;0;Classique [R, Q]
+451;9;27;21;0;Classique [R, Q]
+452;8;26;21;0;Classique [R, Q]
+453;8;26;21;0;Classique [R, Q]
+454;8;26;21;0;Classique [R, Q]
+455;8;26;21;0;Classique [R, Q]
+456;8;26;21;0;Classique [R, Q]
+457;7;25;21;0;Classique [R, Q]
+458;7;25;21;0;Classique [R, Q]
+459;7;25;21;0;Classique [R, Q]
+460;7;25;21;0;Classique [R, Q]
+461;5;23;21;0;Classique [R, Q]
+462;5;23;21;0;Classique [R, Q]
+463;5;23;21;0;Classique [R, Q]
+464;11;23;21;0;Classique [R, Q]
+465;11;23;21;0;Classique [R, Q]
+466;10;22;21;0;Classique [R, Q]
+467;14;26;21;0;Classique [R, Q]
+468;13;25;21;0;Classique [R, Q]
+469;13;25;21;0;Classique [R, Q]
+470;12;24;21;0;Classique [R, Q]
+471;12;24;21;0;Classique [R, Q]
+472;12;24;21;0;Classique [R, Q]
+473;11;23;21;0;Classique [R, Q]
+474;11;23;21;0;Classique [R, Q]
+475;10;22;21;0;Classique [R, Q]
+476;10;22;21;0;Classique [R, Q]
+477;9;27;21;0;Classique [R, Q]
+478;9;27;21;0;Classique [R, Q]
+479;8;26;21;0;Classique [R, Q]
+480;8;26;21;0;Classique [R, Q]
+481;14;26;21;0;Classique [R, Q]
+482;14;26;21;0;Classique [R, Q]
+483;14;26;21;0;Classique [R, Q]
+484;14;26;21;0;Classique [R, Q]
+485;14;26;21;0;Classique [R, Q]
+486;13;25;21;0;Classique [R, Q]
+487;13;25;21;0;Classique [R, Q]
+488;13;25;21;0;Classique [R, Q]
+489;13;25;21;0;Classique [R, Q]
+490;13;25;21;0;Classique [R, Q]
+491;13;25;21;0;Classique [R, Q]
+492;13;25;21;0;Classique [R, Q]
+493;13;25;21;0;Classique [R, Q]
+494;13;25;21;0;Classique [R, Q]
+495;13;25;21;0;Classique [R, Q]
+496;11;23;21;0;Classique [R, Q]
+497;17;23;21;0;Classique [R, Q]
+498;16;22;21;0;Classique [R, Q]
+499;16;22;21;0;Classique [R, Q]
+500;16;22;21;0;Classique [R, Q]
+501;16;22;21;0;Classique [R, Q]
+502;16;22;21;0;Classique [R, Q]
+503;16;22;21;0;Classique [R, Q]
+504;15;27;21;0;Classique [R, Q]
+505;15;27;21;0;Classique [R, Q]
+506;15;27;21;0;Classique [R, Q]
+507;21;27;21;0;Classique [R, Q]
+508;20;26;21;0;Classique [R, Q]
+509;20;26;21;0;Classique [R, Q]
+510;20;26;21;0;Classique [R, Q]
+511;20;26;21;0;Classique [R, Q]
+512;18;24;21;0;Classique [R, Q]
+513;18;24;21;0;Classique [R, Q]
+514;16;22;21;0;Classique [R, Q]
+515;15;27;21;0;Classique [R, Q]
+516;15;27;21;0;Classique [R, Q]
+517;15;27;21;0;Classique [R, Q]
+518;14;26;21;0;Classique [R, Q]
+519;13;25;21;0;Classique [R, Q]
+520;13;25;21;0;Classique [R, Q]
+521;12;24;21;0;Classique [R, Q]
+522;11;23;21;0;Classique [R, Q]
+523;11;23;21;0;Classique [R, Q]
+524;11;23;21;0;Classique [R, Q]
+525;10;22;21;0;Classique [R, Q]
+526;8;26;21;0;Classique [R, Q]
+527;8;26;21;0;Classique [R, Q]
+528;8;26;21;0;Classique [R, Q]
+529;8;26;21;0;Classique [R, Q]
+530;8;26;21;0;Classique [R, Q]
+531;8;26;21;0;Classique [R, Q]
+532;7;25;21;0;Classique [R, Q]
+533;7;25;21;0;Classique [R, Q]
+534;13;25;21;0;Classique [R, Q]
+535;13;25;21;0;Classique [R, Q]
+536;13;25;21;0;Classique [R, Q]
+537;13;25;21;0;Classique [R, Q]
+538;13;25;21;0;Classique [R, Q]
+539;13;25;21;0;Classique [R, Q]
+540;13;25;21;0;Classique [R, Q]
+541;12;24;21;0;Classique [R, Q]
+542;12;24;21;0;Classique [R, Q]
+543;10;22;21;0;Classique [R, Q]
+544;10;22;21;0;Classique [R, Q]
+545;16;22;21;0;Classique [R, Q]
+546;16;22;21;0;Classique [R, Q]
+547;16;22;21;0;Classique [R, Q]
+548;13;25;21;0;Classique [R, Q]
+549;12;24;21;0;Classique [R, Q]
+550;12;24;21;0;Classique [R, Q]
+551;10;22;21;0;Classique [R, Q]
+552;10;22;21;0;Classique [R, Q]
+553;7;25;21;0;Classique [R, Q]
+554;6;24;21;0;Classique [R, Q]
+555;6;24;21;0;Classique [R, Q]
+556;12;24;21;0;Classique [R, Q]
+557;11;23;21;0;Classique [R, Q]
+558;10;22;21;0;Classique [R, Q]
+559;9;27;21;0;Classique [R, Q]
+560;8;26;21;0;Classique [R, Q]
+561;8;26;21;0;Classique [R, Q]
+562;8;26;21;0;Classique [R, Q]
+563;8;26;21;0;Classique [R, Q]
+564;8;26;21;0;Classique [R, Q]
+565;6;24;21;0;Classique [R, Q]
+566;5;23;21;0;Classique [R, Q]
+567;4;22;21;0;Classique [R, Q]
+568;4;22;21;0;Classique [R, Q]
+569;4;22;21;0;Classique [R, Q]
+570;3;27;21;0;Classique [R, Q]
+571;3;27;21;0;Classique [R, Q]
+572;2;26;21;0;Classique [R, Q]
+573;1;25;21;0;Classique [R, Q]
+574;0;22;21;2;Classique [R, Q]
+575;0;22;21;2;Classique [R, Q]
+576;0;22;21;2;Classique [R, Q]
+577;0;22;21;2;Classique [R, Q]
+578;4;22;21;0;Classique [R, Q]
+579;4;22;21;0;Classique [R, Q]
+580;4;22;21;0;Classique [R, Q]
+581;4;22;21;0;Classique [R, Q]
+582;2;26;21;0;Classique [R, Q]
+583;7;25;21;0;Classique [R, Q]
+584;7;25;21;0;Classique [R, Q]
+585;7;25;21;0;Classique [R, Q]
+586;5;23;21;0;Classique [R, Q]
+587;4;22;21;0;Classique [R, Q]
+588;1;25;21;0;Classique [R, Q]
+589;7;25;21;0;Classique [R, Q]
+590;6;24;21;0;Classique [R, Q]
+591;5;23;21;0;Classique [R, Q]
+592;5;23;21;0;Classique [R, Q]
+593;4;22;21;0;Classique [R, Q]
+594;4;22;21;0;Classique [R, Q]
+595;4;22;21;0;Classique [R, Q]
+596;3;27;21;0;Classique [R, Q]
+597;3;27;21;0;Classique [R, Q]
+598;3;27;21;0;Classique [R, Q]
+599;3;27;21;0;Classique [R, Q]
+600;9;27;21;0;Classique [R, Q]
+601;9;27;21;0;Classique [R, Q]
+602;9;27;21;0;Classique [R, Q]
+603;8;26;21;0;Classique [R, Q]
+604;8;26;21;0;Classique [R, Q]
+605;7;25;21;0;Classique [R, Q]
+606;7;25;21;0;Classique [R, Q]
+607;7;25;21;0;Classique [R, Q]
+608;7;25;21;0;Classique [R, Q]
+609;6;24;21;0;Classique [R, Q]
+610;6;24;21;0;Classique [R, Q]
+611;5;23;21;0;Classique [R, Q]
+612;11;23;21;0;Classique [R, Q]
+613;11;23;21;0;Classique [R, Q]
+614;10;22;21;0;Classique [R, Q]
+615;9;27;21;0;Classique [R, Q]
+616;9;27;21;0;Classique [R, Q]
+617;8;26;21;0;Classique [R, Q]
+618;14;26;21;0;Classique [R, Q]
+619;13;25;21;0;Classique [R, Q]
+620;13;25;21;0;Classique [R, Q]
+621;12;24;21;0;Classique [R, Q]
+622;11;23;21;0;Classique [R, Q]
+623;11;23;21;0;Classique [R, Q]
+624;11;23;21;0;Classique [R, Q]
+625;10;22;21;0;Classique [R, Q]
+626;16;22;21;0;Classique [R, Q]
+627;15;27;21;0;Classique [R, Q]
+628;15;27;21;0;Classique [R, Q]
+629;15;27;21;0;Classique [R, Q]
+630;15;27;21;0;Classique [R, Q]
+631;14;26;21;0;Classique [R, Q]
+632;14;26;21;0;Classique [R, Q]
+633;12;24;21;0;Classique [R, Q]
+634;12;24;21;0;Classique [R, Q]
+635;12;24;21;0;Classique [R, Q]
+636;10;22;21;0;Classique [R, Q]
+637;9;27;21;0;Classique [R, Q]
+638;9;27;21;0;Classique [R, Q]
+639;9;27;21;0;Classique [R, Q]
+640;9;27;21;0;Classique [R, Q]
+641;9;27;21;0;Classique [R, Q]
+642;9;27;21;0;Classique [R, Q]
+643;8;26;21;0;Classique [R, Q]
+644;8;26;21;0;Classique [R, Q]
+645;13;25;21;0;Classique [R, Q]
+646;12;24;21;0;Classique [R, Q]
+647;10;22;21;0;Classique [R, Q]
+648;10;22;21;0;Classique [R, Q]
+649;10;22;21;0;Classique [R, Q]
+650;9;27;21;0;Classique [R, Q]
+651;9;27;21;0;Classique [R, Q]
+652;8;26;21;0;Classique [R, Q]
+653;7;25;21;0;Classique [R, Q]
+654;7;25;21;0;Classique [R, Q]
+655;7;25;21;0;Classique [R, Q]
+656;7;25;21;0;Classique [R, Q]
+657;13;25;21;0;Classique [R, Q]
+658;13;25;21;0;Classique [R, Q]
+659;13;25;21;0;Classique [R, Q]
+660;13;25;21;0;Classique [R, Q]
+661;13;25;21;0;Classique [R, Q]
+662;13;25;21;0;Classique [R, Q]
+663;13;25;21;0;Classique [R, Q]
+664;12;24;21;0;Classique [R, Q]
+665;12;24;21;0;Classique [R, Q]
+666;11;23;21;0;Classique [R, Q]
+667;17;23;21;0;Classique [R, Q]
+668;17;23;21;0;Classique [R, Q]
+669;17;23;21;0;Classique [R, Q]
+670;16;22;21;0;Classique [R, Q]
+671;16;22;21;0;Classique [R, Q]
+672;16;22;21;0;Classique [R, Q]
+673;16;22;21;0;Classique [R, Q]
+674;16;22;21;0;Classique [R, Q]
+675;15;27;21;0;Classique [R, Q]
+676;14;26;21;0;Classique [R, Q]
+677;14;26;21;0;Classique [R, Q]
+678;14;26;21;0;Classique [R, Q]
+679;14;26;21;0;Classique [R, Q]
+680;20;26;21;0;Classique [R, Q]
+681;19;25;21;0;Classique [R, Q]
+682;19;25;21;0;Classique [R, Q]
+683;19;25;21;0;Classique [R, Q]
+684;17;23;21;0;Classique [R, Q]
+685;16;22;21;0;Classique [R, Q]
+686;16;22;21;0;Classique [R, Q]
+687;16;22;21;0;Classique [R, Q]
+688;16;22;21;0;Classique [R, Q]
+689;16;22;21;0;Classique [R, Q]
+690;14;26;21;0;Classique [R, Q]
+691;12;24;21;0;Classique [R, Q]
+692;12;24;21;0;Classique [R, Q]
+693;11;23;21;0;Classique [R, Q]
+694;11;23;21;0;Classique [R, Q]
+695;11;23;21;0;Classique [R, Q]
+696;11;23;21;0;Classique [R, Q]
+697;11;23;21;0;Classique [R, Q]
+698;11;23;21;0;Classique [R, Q]
+699;10;22;21;0;Classique [R, Q]
+700;10;22;21;0;Classique [R, Q]
+701;9;27;21;0;Classique [R, Q]
+702;8;26;21;0;Classique [R, Q]
+703;8;26;21;0;Classique [R, Q]
+704;8;26;21;0;Classique [R, Q]
+705;14;26;21;0;Classique [R, Q]
+706;12;24;21;0;Classique [R, Q]
+707;12;24;21;0;Classique [R, Q]
+708;12;24;21;0;Classique [R, Q]
+709;12;24;21;0;Classique [R, Q]
+710;11;23;21;0;Classique [R, Q]
+711;11;23;21;0;Classique [R, Q]
+712;11;23;21;0;Classique [R, Q]
+713;10;22;21;0;Classique [R, Q]
+714;8;26;21;0;Classique [R, Q]
+715;8;26;21;0;Classique [R, Q]
+716;7;25;21;0;Classique [R, Q]
+717;6;24;21;0;Classique [R, Q]
+718;6;24;21;0;Classique [R, Q]
+719;4;22;21;0;Classique [R, Q]
+720;10;22;21;0;Classique [R, Q]
+721;10;22;21;0;Classique [R, Q]
+722;10;22;21;0;Classique [R, Q]
+723;10;22;21;0;Classique [R, Q]
+724;10;22;21;0;Classique [R, Q]
+725;9;27;21;0;Classique [R, Q]
+726;8;26;21;0;Classique [R, Q]
+727;8;26;21;0;Classique [R, Q]
+728;5;23;21;0;Classique [R, Q]
+729;5;23;21;0;Classique [R, Q]
+730;2;26;21;0;Classique [R, Q]
+731;7;25;21;0;Classique [R, Q]
+732;7;25;21;0;Classique [R, Q]
+733;7;25;21;0;Classique [R, Q]
+734;7;25;21;0;Classique [R, Q]
+735;7;25;21;0;Classique [R, Q]
+736;6;24;21;0;Classique [R, Q]
+737;3;27;21;0;Classique [R, Q]
+738;2;26;21;0;Classique [R, Q]
+739;2;26;21;0;Classique [R, Q]
+740;0;24;21;0;Classique [R, Q]
+741;0;23;21;1;Classique [R, Q]
+742;0;23;21;1;Classique [R, Q]
+743;0;23;21;1;Classique [R, Q]
+744;4;22;21;0;Classique [R, Q]
+745;3;27;21;0;Classique [R, Q]
+746;2;26;21;0;Classique [R, Q]
+747;2;26;21;0;Classique [R, Q]
+748;1;25;21;0;Classique [R, Q]
+749;1;25;21;0;Classique [R, Q]
+750;1;25;21;0;Classique [R, Q]
+751;0;24;21;0;Classique [R, Q]
+752;0;24;21;0;Classique [R, Q]
+753;0;24;21;0;Classique [R, Q]
+754;0;22;21;2;Classique [R, Q]
+755;3;27;21;0;Classique [R, Q]
+756;3;27;21;0;Classique [R, Q]
+757;3;27;21;0;Classique [R, Q]
+758;2;26;21;0;Classique [R, Q]
+759;2;26;21;0;Classique [R, Q]
+760;8;26;21;0;Classique [R, Q]
+761;8;26;21;0;Classique [R, Q]
+762;7;25;21;0;Classique [R, Q]
+763;7;25;21;0;Classique [R, Q]
+764;6;24;21;0;Classique [R, Q]
+765;6;24;21;0;Classique [R, Q]
+766;6;24;21;0;Classique [R, Q]
+767;12;24;21;0;Classique [R, Q]
+768;11;23;21;0;Classique [R, Q]
+769;10;22;21;0;Classique [R, Q]
+770;8;26;21;0;Classique [R, Q]
+771;7;25;21;0;Classique [R, Q]
+772;7;25;21;0;Classique [R, Q]
+773;6;24;21;0;Classique [R, Q]
+774;6;24;21;0;Classique [R, Q]
+775;11;23;21;0;Classique [R, Q]
+776;11;23;21;0;Classique [R, Q]
+777;10;22;21;0;Classique [R, Q]
+778;10;22;21;0;Classique [R, Q]
+779;10;22;21;0;Classique [R, Q]
+780;10;22;21;0;Classique [R, Q]
+781;10;22;21;0;Classique [R, Q]
+782;9;27;21;0;Classique [R, Q]
+783;9;27;21;0;Classique [R, Q]
+784;8;26;21;0;Classique [R, Q]
+785;13;25;21;0;Classique [R, Q]
+786;13;25;21;0;Classique [R, Q]
+787;13;25;21;0;Classique [R, Q]
+788;13;25;21;0;Classique [R, Q]
+789;13;25;21;0;Classique [R, Q]
+790;13;25;21;0;Classique [R, Q]
+791;13;25;21;0;Classique [R, Q]
+792;13;25;21;0;Classique [R, Q]
+793;13;25;21;0;Classique [R, Q]
+794;13;25;21;0;Classique [R, Q]
+795;12;24;21;0;Classique [R, Q]
+796;12;24;21;0;Classique [R, Q]
+797;11;23;21;0;Classique [R, Q]
+798;11;23;21;0;Classique [R, Q]
+799;11;23;21;0;Classique [R, Q]
+800;17;23;21;0;Classique [R, Q]
+801;15;27;21;0;Classique [R, Q]
+802;14;26;21;0;Classique [R, Q]
+803;14;26;21;0;Classique [R, Q]
+804;13;25;21;0;Classique [R, Q]
+805;12;24;21;0;Classique [R, Q]
+806;12;24;21;0;Classique [R, Q]
+807;10;22;21;0;Classique [R, Q]
+808;10;22;21;0;Classique [R, Q]
+809;9;27;21;0;Classique [R, Q]
+810;9;27;21;0;Classique [R, Q]
+811;8;26;21;0;Classique [R, Q]
+812;14;26;21;0;Classique [R, Q]
+813;14;26;21;0;Classique [R, Q]
+814;13;25;21;0;Classique [R, Q]
+815;13;25;21;0;Classique [R, Q]
+816;11;23;21;0;Classique [R, Q]
+817;11;23;21;0;Classique [R, Q]
+818;11;23;21;0;Classique [R, Q]
+819;10;22;21;0;Classique [R, Q]
+820;10;22;21;0;Classique [R, Q]
+821;10;22;21;0;Classique [R, Q]
+822;10;22;21;0;Classique [R, Q]
+823;8;26;21;0;Classique [R, Q]
+824;8;26;21;0;Classique [R, Q]
+825;8;26;21;0;Classique [R, Q]
+826;7;25;21;0;Classique [R, Q]
+827;7;25;21;0;Classique [R, Q]
+828;7;25;21;0;Classique [R, Q]
+829;7;25;21;0;Classique [R, Q]
+830;7;25;21;0;Classique [R, Q]
+831;12;24;21;0;Classique [R, Q]
+832;12;24;21;0;Classique [R, Q]
+833;12;24;21;0;Classique [R, Q]
+834;12;24;21;0;Classique [R, Q]
+835;12;24;21;0;Classique [R, Q]
+836;12;24;21;0;Classique [R, Q]
+837;12;24;21;0;Classique [R, Q]
+838;12;24;21;0;Classique [R, Q]
+839;18;24;21;0;Classique [R, Q]
+840;17;23;21;0;Classique [R, Q]
+841;17;23;21;0;Classique [R, Q]
+842;17;23;21;0;Classique [R, Q]
+843;17;23;21;0;Classique [R, Q]
+844;16;22;21;0;Classique [R, Q]
+845;16;22;21;0;Classique [R, Q]
+846;16;22;21;0;Classique [R, Q]
+847;15;27;21;0;Classique [R, Q]
+848;14;26;21;0;Classique [R, Q]
+849;13;25;21;0;Classique [R, Q]
+850;12;24;21;0;Classique [R, Q]
+851;11;23;21;0;Classique [R, Q]
+852;9;27;21;0;Classique [R, Q]
+853;15;27;21;0;Classique [R, Q]
+854;15;27;21;0;Classique [R, Q]
+855;14;26;21;0;Classique [R, Q]
+856;14;26;21;0;Classique [R, Q]
+857;14;26;21;0;Classique [R, Q]
+858;14;26;21;0;Classique [R, Q]
+859;14;26;21;0;Classique [R, Q]
+860;14;26;21;0;Classique [R, Q]
+861;14;26;21;0;Classique [R, Q]
+862;14;26;21;0;Classique [R, Q]
+863;13;25;21;0;Classique [R, Q]
+864;13;25;21;0;Classique [R, Q]
+865;13;25;21;0;Classique [R, Q]
+866;12;24;21;0;Classique [R, Q]
+867;11;23;21;0;Classique [R, Q]
+868;11;23;21;0;Classique [R, Q]
+869;11;23;21;0;Classique [R, Q]
+870;11;23;21;0;Classique [R, Q]
+871;10;22;21;0;Classique [R, Q]
+872;8;26;21;0;Classique [R, Q]
+873;7;25;21;0;Classique [R, Q]
+874;6;24;21;0;Classique [R, Q]
+875;6;24;21;0;Classique [R, Q]
+876;5;23;21;0;Classique [R, Q]
+877;11;23;21;0;Classique [R, Q]
+878;11;23;21;0;Classique [R, Q]
+879;11;23;21;0;Classique [R, Q]
+880;11;23;21;0;Classique [R, Q]
+881;11;23;21;0;Classique [R, Q]
+882;15;27;21;0;Classique [R, Q]
+883;15;27;21;0;Classique [R, Q]
+884;15;27;21;0;Classique [R, Q]
+885;15;27;21;0;Classique [R, Q]
+886;15;27;21;0;Classique [R, Q]
+887;15;27;21;0;Classique [R, Q]
+888;15;27;21;0;Classique [R, Q]
+889;14;26;21;0;Classique [R, Q]
+890;13;25;21;0;Classique [R, Q]
+891;13;25;21;0;Classique [R, Q]
+892;13;25;21;0;Classique [R, Q]
+893;13;25;21;0;Classique [R, Q]
+894;13;25;21;0;Classique [R, Q]
+895;12;24;21;0;Classique [R, Q]
+896;11;23;21;0;Classique [R, Q]
+897;11;23;21;0;Classique [R, Q]
+898;11;23;21;0;Classique [R, Q]
+899;10;22;21;0;Classique [R, Q]
+900;10;22;21;0;Classique [R, Q]
+901;8;26;21;0;Classique [R, Q]
+902;14;26;21;0;Classique [R, Q]
+903;14;26;21;0;Classique [R, Q]
+904;10;22;21;0;Classique [R, Q]
+905;9;27;21;0;Classique [R, Q]
+906;8;26;21;0;Classique [R, Q]
+907;8;26;21;0;Classique [R, Q]
+908;8;26;21;0;Classique [R, Q]
+909;8;26;21;0;Classique [R, Q]
+910;8;26;21;0;Classique [R, Q]
+911;8;26;21;0;Classique [R, Q]
+912;13;25;21;0;Classique [R, Q]
+913;13;25;21;0;Classique [R, Q]
+914;13;25;21;0;Classique [R, Q]
+915;13;25;21;0;Classique [R, Q]
+916;12;24;21;0;Classique [R, Q]
+917;12;24;21;0;Classique [R, Q]
+918;10;22;21;0;Classique [R, Q]
+919;10;22;21;0;Classique [R, Q]
+920;10;22;21;0;Classique [R, Q]
+921;7;25;21;0;Classique [R, Q]
+922;7;25;21;0;Classique [R, Q]
+923;7;25;21;0;Classique [R, Q]
+924;4;22;21;0;Classique [R, Q]
+925;2;26;21;0;Classique [R, Q]
+926;2;26;21;0;Classique [R, Q]
+927;2;26;21;0;Classique [R, Q]
+928;2;26;21;0;Classique [R, Q]
+929;1;25;21;0;Classique [R, Q]
+930;1;25;21;0;Classique [R, Q]
+931;7;25;21;0;Classique [R, Q]
+932;6;24;21;0;Classique [R, Q]
+933;6;24;21;0;Classique [R, Q]
+934;6;24;21;0;Classique [R, Q]
+935;10;22;21;0;Classique [R, Q]
+936;9;27;21;0;Classique [R, Q]
+937;7;25;21;0;Classique [R, Q]
+938;7;25;21;0;Classique [R, Q]
+939;7;25;21;0;Classique [R, Q]
+940;6;24;21;0;Classique [R, Q]
+941;6;24;21;0;Classique [R, Q]
+942;6;24;21;0;Classique [R, Q]
+943;5;23;21;0;Classique [R, Q]
+944;5;23;21;0;Classique [R, Q]
+945;4;22;21;0;Classique [R, Q]
+946;4;22;21;0;Classique [R, Q]
+947;4;22;21;0;Classique [R, Q]
+948;4;22;21;0;Classique [R, Q]
+949;4;22;21;0;Classique [R, Q]
+950;2;26;21;0;Classique [R, Q]
+951;7;25;21;0;Classique [R, Q]
+952;7;25;21;0;Classique [R, Q]
+953;7;25;21;0;Classique [R, Q]
+954;7;25;21;0;Classique [R, Q]
+955;12;24;21;0;Classique [R, Q]
+956;12;24;21;0;Classique [R, Q]
+957;12;24;21;0;Classique [R, Q]
+958;12;24;21;0;Classique [R, Q]
+959;11;23;21;0;Classique [R, Q]
+960;11;23;21;0;Classique [R, Q]
+961;10;22;21;0;Classique [R, Q]
+962;9;27;21;0;Classique [R, Q]
+963;8;26;21;0;Classique [R, Q]
+964;6;24;21;0;Classique [R, Q]
+965;6;24;21;0;Classique [R, Q]
+966;12;24;21;0;Classique [R, Q]
+967;11;23;21;0;Classique [R, Q]
+968;11;23;21;0;Classique [R, Q]
+969;11;23;21;0;Classique [R, Q]
+970;11;23;21;0;Classique [R, Q]
+971;10;22;21;0;Classique [R, Q]
+972;9;27;21;0;Classique [R, Q]
+973;9;27;21;0;Classique [R, Q]
+974;9;27;21;0;Classique [R, Q]
+975;9;27;21;0;Classique [R, Q]
+976;9;27;21;0;Classique [R, Q]
+977;8;26;21;0;Classique [R, Q]
+978;8;26;21;0;Classique [R, Q]
+979;8;26;21;0;Classique [R, Q]
+980;13;25;21;0;Classique [R, Q]
+981;12;24;21;0;Classique [R, Q]
+982;11;23;21;0;Classique [R, Q]
+983;10;22;21;0;Classique [R, Q]
+984;9;27;21;0;Classique [R, Q]
+985;9;27;21;0;Classique [R, Q]
+986;9;27;21;0;Classique [R, Q]
+987;8;26;21;0;Classique [R, Q]
+988;8;26;21;0;Classique [R, Q]
+989;7;25;21;0;Classique [R, Q]
+990;5;23;21;0;Classique [R, Q]
+991;5;23;21;0;Classique [R, Q]
+992;11;23;21;0;Classique [R, Q]
+993;11;23;21;0;Classique [R, Q]
+994;11;23;21;0;Classique [R, Q]
+995;10;22;21;0;Classique [R, Q]
+996;10;22;21;0;Classique [R, Q]
+997;9;27;21;0;Classique [R, Q]
+998;6;24;21;0;Classique [R, Q]
+999;5;23;21;0;Classique [R, Q]
+1000;5;23;21;0;Classique [R, Q]
+1001;4;22;21;0;Classique [R, Q]
+1002;10;22;21;0;Classique [R, Q]
+1003;10;22;21;0;Classique [R, Q]
+1004;9;27;21;0;Classique [R, Q]
+1005;9;27;21;0;Classique [R, Q]
+1006;9;27;21;0;Classique [R, Q]
+1007;8;26;21;0;Classique [R, Q]
+1008;8;26;21;0;Classique [R, Q]
+1009;8;26;21;0;Classique [R, Q]
+1010;8;26;21;0;Classique [R, Q]
+1011;8;26;21;0;Classique [R, Q]
+1012;8;26;21;0;Classique [R, Q]
+1013;8;26;21;0;Classique [R, Q]
+1014;14;26;21;0;Classique [R, Q]
+1015;13;25;21;0;Classique [R, Q]
+1016;13;25;21;0;Classique [R, Q]
+1017;13;25;21;0;Classique [R, Q]
+1018;13;25;21;0;Classique [R, Q]
+1019;13;25;21;0;Classique [R, Q]
+1020;13;25;21;0;Classique [R, Q]
+1021;12;24;21;0;Classique [R, Q]
+1022;11;23;21;0;Classique [R, Q]
+1023;10;22;21;0;Classique [R, Q]
+1024;10;22;21;0;Classique [R, Q]
+1025;10;22;21;0;Classique [R, Q]
+1026;10;22;21;0;Classique [R, Q]
+1027;15;27;21;0;Classique [R, Q]
+1028;15;27;21;0;Classique [R, Q]
+1029;15;27;21;0;Classique [R, Q]
+1030;15;27;21;0;Classique [R, Q]
+1031;15;27;21;0;Classique [R, Q]
+1032;14;26;21;0;Classique [R, Q]
+1033;13;25;21;0;Classique [R, Q]
+1034;19;25;21;0;Classique [R, Q]
+1035;19;25;21;0;Classique [R, Q]
+1036;19;25;21;0;Classique [R, Q]
+1037;17;23;21;0;Classique [R, Q]
+1038;16;22;21;0;Classique [R, Q]
+1039;16;22;21;0;Classique [R, Q]
+1040;15;27;21;0;Classique [R, Q]
+1041;15;27;21;0;Classique [R, Q]
+1042;15;27;21;0;Classique [R, Q]
+1043;14;26;21;0;Classique [R, Q]
+1044;13;25;21;0;Classique [R, Q]
+1045;13;25;21;0;Classique [R, Q]
+1046;13;25;21;0;Classique [R, Q]
+1047;13;25;21;0;Classique [R, Q]
+1048;13;25;21;0;Classique [R, Q]
+1049;13;25;21;0;Classique [R, Q]
+1050;13;25;21;0;Classique [R, Q]
+1051;12;24;21;0;Classique [R, Q]
+1052;12;24;21;0;Classique [R, Q]
+1053;12;24;21;0;Classique [R, Q]
+1054;10;22;21;0;Classique [R, Q]
+1055;10;22;21;0;Classique [R, Q]
+1056;9;27;21;0;Classique [R, Q]
+1057;12;24;21;0;Classique [R, Q]
+1058;12;24;21;0;Classique [R, Q]
+1059;11;23;21;0;Classique [R, Q]
+1060;10;22;21;0;Classique [R, Q]
+1061;9;27;21;0;Classique [R, Q]
+1062;8;26;21;0;Classique [R, Q]
+1063;8;26;21;0;Classique [R, Q]
+1064;8;26;21;0;Classique [R, Q]
+1065;7;25;21;0;Classique [R, Q]
+1066;7;25;21;0;Classique [R, Q]
+1067;6;24;21;0;Classique [R, Q]
+1068;5;23;21;0;Classique [R, Q]
+1069;4;22;21;0;Classique [R, Q]
+1070;10;22;21;0;Classique [R, Q]
+1071;10;22;21;0;Classique [R, Q]
+1072;10;22;21;0;Classique [R, Q]
+1073;8;26;21;0;Classique [R, Q]
+1074;8;26;21;0;Classique [R, Q]
+1075;7;25;21;0;Classique [R, Q]
+1076;6;24;21;0;Classique [R, Q]
+1077;5;23;21;0;Classique [R, Q]
+1078;5;23;21;0;Classique [R, Q]
+1079;4;22;21;0;Classique [R, Q]
+1080;4;22;21;0;Classique [R, Q]
+1081;4;22;21;0;Classique [R, Q]
+1082;4;22;21;0;Classique [R, Q]
+1083;4;22;21;0;Classique [R, Q]
+1084;4;22;21;0;Classique [R, Q]
+1085;4;22;21;0;Classique [R, Q]
+1086;10;22;21;0;Classique [R, Q]
+1087;9;27;21;0;Classique [R, Q]
+1088;9;27;21;0;Classique [R, Q]
+1089;8;26;21;0;Classique [R, Q]
+1090;6;24;21;0;Classique [R, Q]
+1091;11;23;21;0;Classique [R, Q]
+1092;11;23;21;0;Classique [R, Q]
+1093;10;22;21;0;Classique [R, Q]
+1094;9;27;21;0;Classique [R, Q]
+365;7;25;19;0;Pilotée par le modèle
+366;7;25;20;0;Pilotée par le modèle
+367;7;25;21;0;Pilotée par le modèle
+368;6;24;21;0;Pilotée par le modèle
+369;5;23;20;0;Pilotée par le modèle
+370;5;23;20;0;Pilotée par le modèle
+371;5;23;21;0;Pilotée par le modèle
+372;10;22;21;0;Pilotée par le modèle
+373;9;21;20;0;Pilotée par le modèle
+374;8;20;19;0;Pilotée par le modèle
+375;8;26;20;0;Pilotée par le modèle
+376;8;26;20;0;Pilotée par le modèle
+377;8;26;21;0;Pilotée par le modèle
+378;7;25;20;0;Pilotée par le modèle
+379;6;24;19;0;Pilotée par le modèle
+380;6;24;20;0;Pilotée par le modèle
+381;5;23;19;0;Pilotée par le modèle
+382;3;21;17;0;Pilotée par le modèle
+383;3;21;18;0;Pilotée par le modèle
+384;8;20;17;0;Pilotée par le modèle
+385;6;18;15;0;Pilotée par le modèle
+386;6;18;15;0;Pilotée par le modèle
+387;6;18;16;0;Pilotée par le modèle
+388;6;18;16;0;Pilotée par le modèle
+389;5;17;15;0;Pilotée par le modèle
+390;5;17;15;0;Pilotée par le modèle
+391;1;13;11;0;Pilotée par le modèle
+392;1;13;12;0;Pilotée par le modèle
+393;1;13;12;0;Pilotée par le modèle
+394;6;18;12;0;Pilotée par le modèle
+395;3;15;9;0;Pilotée par le modèle
+396;2;14;10;0;Pilotée par le modèle
+397;2;14;10;0;Pilotée par le modèle
+398;2;14;11;0;Pilotée par le modèle
+399;2;14;13;0;Pilotée par le modèle
+400;2;14;13;0;Pilotée par le modèle
+401;2;20;14;0;Pilotée par le modèle
+402;2;20;15;0;Pilotée par le modèle
+403;2;20;15;0;Pilotée par le modèle
+404;1;19;14;0;Pilotée par le modèle
+405;7;19;15;0;Pilotée par le modèle
+406;6;18;15;0;Pilotée par le modèle
+407;6;18;16;0;Pilotée par le modèle
+408;6;18;16;0;Pilotée par le modèle
+409;6;18;17;0;Pilotée par le modèle
+410;6;18;17;0;Pilotée par le modèle
+411;6;24;18;0;Pilotée par le modèle
+412;6;24;19;0;Pilotée par le modèle
+413;6;24;20;0;Pilotée par le modèle
+414;6;24;21;0;Pilotée par le modèle
+415;6;24;21;0;Pilotée par le modèle
+416;5;23;21;0;Pilotée par le modèle
+417;5;23;21;0;Pilotée par le modèle
+418;5;23;22;0;Pilotée par le modèle
+419;5;23;22;0;Pilotée par le modèle
+420;4;28;22;0;Pilotée par le modèle
+421;2;26;20;0;Pilotée par le modèle
+422;2;26;20;0;Pilotée par le modèle
+423;2;26;20;0;Pilotée par le modèle
+424;5;23;17;0;Pilotée par le modèle
+425;5;23;17;0;Pilotée par le modèle
+426;5;23;18;0;Pilotée par le modèle
+427;5;23;18;0;Pilotée par le modèle
+428;5;23;18;0;Pilotée par le modèle
+429;5;23;19;0;Pilotée par le modèle
+430;5;23;19;0;Pilotée par le modèle
+431;11;23;20;0;Pilotée par le modèle
+432;10;22;19;0;Pilotée par le modèle
+433;10;22;19;0;Pilotée par le modèle
+434;9;21;18;0;Pilotée par le modèle
+435;5;17;15;0;Pilotée par le modèle
+436;5;17;15;0;Pilotée par le modèle
+437;3;15;14;0;Pilotée par le modèle
+438;1;19;13;0;Pilotée par le modèle
+439;1;19;13;0;Pilotée par le modèle
+440;1;19;14;0;Pilotée par le modèle
+441;7;19;14;0;Pilotée par le modèle
+442;5;17;12;0;Pilotée par le modèle
+443;4;16;12;0;Pilotée par le modèle
+444;4;16;12;0;Pilotée par le modèle
+445;4;16;13;0;Pilotée par le modèle
+446;4;16;13;0;Pilotée par le modèle
+447;4;16;13;0;Pilotée par le modèle
+448;4;16;13;0;Pilotée par le modèle
+449;4;16;13;0;Pilotée par le modèle
+450;10;16;13;0;Pilotée par le modèle
+451;9;15;13;0;Pilotée par le modèle
+452;8;14;13;0;Pilotée par le modèle
+453;8;14;12;0;Pilotée par le modèle
+454;8;14;13;0;Pilotée par le modèle
+455;8;20;14;0;Pilotée par le modèle
+456;8;20;14;0;Pilotée par le modèle
+457;7;19;13;0;Pilotée par le modèle
+458;7;19;13;0;Pilotée par le modèle
+459;7;19;13;0;Pilotée par le modèle
+460;7;19;13;0;Pilotée par le modèle
+461;5;17;11;0;Pilotée par le modèle
+462;5;17;11;0;Pilotée par le modèle
+463;5;17;12;0;Pilotée par le modèle
+464;5;17;11;0;Pilotée par le modèle
+465;5;17;11;0;Pilotée par le modèle
+466;4;16;11;0;Pilotée par le modèle
+467;2;14;10;0;Pilotée par le modèle
+468;7;13;9;0;Pilotée par le modèle
+469;7;13;10;0;Pilotée par le modèle
+470;5;11;8;0;Pilotée par le modèle
+471;5;11;8;0;Pilotée par le modèle
+472;5;11;8;0;Pilotée par le modèle
+473;5;11;9;0;Pilotée par le modèle
+474;5;11;9;0;Pilotée par le modèle
+475;4;10;8;0;Pilotée par le modèle
+476;4;16;10;0;Pilotée par le modèle
+477;3;15;9;0;Pilotée par le modèle
+478;3;15;10;0;Pilotée par le modèle
+479;2;14;8;0;Pilotée par le modèle
+480;2;14;8;0;Pilotée par le modèle
+481;2;14;9;0;Pilotée par le modèle
+482;2;14;9;0;Pilotée par le modèle
+483;2;14;10;0;Pilotée par le modèle
+484;2;14;10;0;Pilotée par le modèle
+485;8;14;11;0;Pilotée par le modèle
+486;7;13;11;0;Pilotée par le modèle
+487;7;13;12;0;Pilotée par le modèle
+488;7;13;12;0;Pilotée par le modèle
+489;7;19;13;0;Pilotée par le modèle
+490;7;19;13;0;Pilotée par le modèle
+491;7;19;12;0;Pilotée par le modèle
+492;7;19;14;0;Pilotée par le modèle
+493;7;19;14;0;Pilotée par le modèle
+494;7;19;15;0;Pilotée par le modèle
+495;7;19;16;0;Pilotée par le modèle
+496;5;17;15;0;Pilotée par le modèle
+497;5;17;15;0;Pilotée par le modèle
+498;4;16;15;0;Pilotée par le modèle
+499;4;16;15;0;Pilotée par le modèle
+500;4;22;16;0;Pilotée par le modèle
+501;4;22;16;0;Pilotée par le modèle
+502;4;22;17;0;Pilotée par le modèle
+503;4;22;17;0;Pilotée par le modèle
+504;3;21;16;0;Pilotée par le modèle
+505;3;21;17;0;Pilotée par le modèle
+506;9;21;17;0;Pilotée par le modèle
+507;9;21;17;0;Pilotée par le modèle
+508;8;20;16;0;Pilotée par le modèle
+509;8;20;17;0;Pilotée par le modèle
+510;8;20;17;0;Pilotée par le modèle
+511;8;20;18;0;Pilotée par le modèle
+512;6;18;16;0;Pilotée par le modèle
+513;6;18;16;0;Pilotée par le modèle
+514;4;22;16;0;Pilotée par le modèle
+515;3;21;15;0;Pilotée par le modèle
+516;3;21;17;0;Pilotée par le modèle
+517;3;21;18;0;Pilotée par le modèle
+518;2;20;18;0;Pilotée par le modèle
+519;7;19;16;0;Pilotée par le modèle
+520;7;19;17;0;Pilotée par le modèle
+521;6;18;16;0;Pilotée par le modèle
+522;5;17;16;0;Pilotée par le modèle
+523;5;23;17;0;Pilotée par le modèle
+524;5;23;18;0;Pilotée par le modèle
+525;4;22;17;0;Pilotée par le modèle
+526;2;20;15;0;Pilotée par le modèle
+527;2;20;17;0;Pilotée par le modèle
+528;2;20;18;0;Pilotée par le modèle
+529;2;20;17;0;Pilotée par le modèle
+530;8;20;19;0;Pilotée par le modèle
+531;8;26;20;0;Pilotée par le modèle
+532;7;25;21;0;Pilotée par le modèle
+533;7;25;23;0;Pilotée par le modèle
+534;7;25;23;0;Pilotée par le modèle
+535;7;25;24;0;Pilotée par le modèle
+536;7;25;24;0;Pilotée par le modèle
+537;7;25;24;0;Pilotée par le modèle
+538;7;31;25;0;Pilotée par le modèle
+539;7;31;26;0;Pilotée par le modèle
+540;7;31;26;0;Pilotée par le modèle
+541;6;30;26;0;Pilotée par le modèle
+542;6;30;26;0;Pilotée par le modèle
+543;4;28;24;0;Pilotée par le modèle
+544;10;28;25;0;Pilotée par le modèle
+545;10;28;25;0;Pilotée par le modèle
+546;10;28;26;0;Pilotée par le modèle
+547;10;28;27;0;Pilotée par le modèle
+548;7;25;24;0;Pilotée par le modèle
+549;6;30;24;0;Pilotée par le modèle
+550;6;30;24;0;Pilotée par le modèle
+551;4;28;22;0;Pilotée par le modèle
+552;4;28;23;0;Pilotée par le modèle
+553;7;25;22;0;Pilotée par le modèle
+554;6;24;21;0;Pilotée par le modèle
+555;6;24;22;0;Pilotée par le modèle
+556;6;24;22;0;Pilotée par le modèle
+557;5;23;21;0;Pilotée par le modèle
+558;4;22;21;0;Pilotée par le modèle
+559;3;21;20;0;Pilotée par le modèle
+560;2;26;20;0;Pilotée par le modèle
+561;8;26;22;0;Pilotée par le modèle
+562;8;26;22;0;Pilotée par le modèle
+563;8;26;23;0;Pilotée par le modèle
+564;8;26;24;0;Pilotée par le modèle
+565;6;24;22;0;Pilotée par le modèle
+566;5;23;21;0;Pilotée par le modèle
+567;4;22;21;0;Pilotée par le modèle
+568;10;28;22;0;Pilotée par le modèle
+569;10;28;22;0;Pilotée par le modèle
+570;9;27;22;0;Pilotée par le modèle
+571;9;27;22;0;Pilotée par le modèle
+572;8;26;22;0;Pilotée par le modèle
+573;7;25;21;0;Pilotée par le modèle
+574;4;22;19;0;Pilotée par le modèle
+575;4;22;19;0;Pilotée par le modèle
+576;4;22;19;0;Pilotée par le modèle
+577;4;22;19;0;Pilotée par le modèle
+578;4;22;19;0;Pilotée par le modèle
+579;10;22;20;0;Pilotée par le modèle
+580;10;22;20;0;Pilotée par le modèle
+581;10;22;20;0;Pilotée par le modèle
+582;8;20;19;0;Pilotée par le modèle
+583;7;25;19;0;Pilotée par le modèle
+584;7;25;20;0;Pilotée par le modèle
+585;6;24;19;0;Pilotée par le modèle
+586;4;22;17;0;Pilotée par le modèle
+587;4;22;17;0;Pilotée par le modèle
+588;1;19;14;0;Pilotée par le modèle
+589;1;19;14;0;Pilotée par le modèle
+590;6;18;14;0;Pilotée par le modèle
+591;5;17;13;0;Pilotée par le modèle
+592;5;17;14;0;Pilotée par le modèle
+593;4;16;13;0;Pilotée par le modèle
+594;4;16;14;0;Pilotée par le modèle
+595;4;16;14;0;Pilotée par le modèle
+596;3;15;14;0;Pilotée par le modèle
+597;3;21;15;0;Pilotée par le modèle
+598;9;21;15;0;Pilotée par le modèle
+599;9;21;15;0;Pilotée par le modèle
+600;9;21;16;0;Pilotée par le modèle
+601;9;21;16;0;Pilotée par le modèle
+602;9;21;17;0;Pilotée par le modèle
+603;8;20;16;0;Pilotée par le modèle
+604;8;20;16;0;Pilotée par le modèle
+605;7;19;16;0;Pilotée par le modèle
+606;7;19;16;0;Pilotée par le modèle
+607;7;19;16;0;Pilotée par le modèle
+608;7;19;17;0;Pilotée par le modèle
+609;6;18;17;0;Pilotée par le modèle
+610;6;24;18;0;Pilotée par le modèle
+611;5;23;17;0;Pilotée par le modèle
+612;5;23;19;0;Pilotée par le modèle
+613;11;23;19;0;Pilotée par le modèle
+614;10;22;18;0;Pilotée par le modèle
+615;9;21;18;0;Pilotée par le modèle
+616;9;21;18;0;Pilotée par le modèle
+617;8;20;17;0;Pilotée par le modèle
+618;8;20;17;0;Pilotée par le modèle
+619;7;19;17;0;Pilotée par le modèle
+620;7;19;17;0;Pilotée par le modèle
+621;6;18;16;0;Pilotée par le modèle
+622;5;17;16;0;Pilotée par le modèle
+623;5;17;16;0;Pilotée par le modèle
+624;5;17;16;0;Pilotée par le modèle
+625;4;22;16;0;Pilotée par le modèle
+626;4;22;16;0;Pilotée par le modèle
+627;9;21;15;0;Pilotée par le modèle
+628;9;21;16;0;Pilotée par le modèle
+629;9;21;16;0;Pilotée par le modèle
+630;9;21;17;0;Pilotée par le modèle
+631;8;20;16;0;Pilotée par le modèle
+632;8;20;16;0;Pilotée par le modèle
+633;6;18;15;0;Pilotée par le modèle
+634;6;18;15;0;Pilotée par le modèle
+635;6;18;15;0;Pilotée par le modèle
+636;4;16;14;0;Pilotée par le modèle
+637;3;15;13;0;Pilotée par le modèle
+638;3;15;13;0;Pilotée par le modèle
+639;3;15;14;0;Pilotée par le modèle
+640;9;15;14;0;Pilotée par le modèle
+641;9;21;15;0;Pilotée par le modèle
+642;9;21;15;0;Pilotée par le modèle
+643;8;20;14;0;Pilotée par le modèle
+644;8;20;16;0;Pilotée par le modèle
+645;7;19;14;0;Pilotée par le modèle
+646;6;18;13;0;Pilotée par le modèle
+647;4;16;12;0;Pilotée par le modèle
+648;4;16;13;0;Pilotée par le modèle
+649;4;16;13;0;Pilotée par le modèle
+650;3;15;12;0;Pilotée par le modèle
+651;3;15;12;0;Pilotée par le modèle
+652;2;14;12;0;Pilotée par le modèle
+653;1;13;11;0;Pilotée par le modèle
+654;1;13;11;0;Pilotée par le modèle
+655;7;13;12;0;Pilotée par le modèle
+656;7;13;12;0;Pilotée par le modèle
+657;7;19;13;0;Pilotée par le modèle
+658;7;19;13;0;Pilotée par le modèle
+659;7;19;13;0;Pilotée par le modèle
+660;7;19;13;0;Pilotée par le modèle
+661;7;19;14;0;Pilotée par le modèle
+662;7;19;14;0;Pilotée par le modèle
+663;7;19;15;0;Pilotée par le modèle
+664;6;18;15;0;Pilotée par le modèle
+665;6;18;15;0;Pilotée par le modèle
+666;5;17;15;0;Pilotée par le modèle
+667;5;17;15;0;Pilotée par le modèle
+668;5;17;16;0;Pilotée par le modèle
+669;5;23;17;0;Pilotée par le modèle
+670;4;22;16;0;Pilotée par le modèle
+671;10;22;16;0;Pilotée par le modèle
+672;10;22;17;0;Pilotée par le modèle
+673;10;22;17;0;Pilotée par le modèle
+674;10;22;17;0;Pilotée par le modèle
+675;9;21;17;0;Pilotée par le modèle
+676;8;20;16;0;Pilotée par le modèle
+677;8;20;17;0;Pilotée par le modèle
+678;7;19;16;0;Pilotée par le modèle
+679;7;19;17;0;Pilotée par le modèle
+680;7;19;17;0;Pilotée par le modèle
+681;7;19;17;0;Pilotée par le modèle
+682;7;19;18;0;Pilotée par le modèle
+683;7;19;18;0;Pilotée par le modèle
+684;5;23;17;0;Pilotée par le modèle
+685;4;22;17;0;Pilotée par le modèle
+686;4;22;17;0;Pilotée par le modèle
+687;10;22;17;0;Pilotée par le modèle
+688;10;22;18;0;Pilotée par le modèle
+689;10;22;19;0;Pilotée par le modèle
+690;8;20;18;0;Pilotée par le modèle
+691;6;18;16;0;Pilotée par le modèle
+692;6;18;17;0;Pilotée par le modèle
+693;5;23;17;0;Pilotée par le modèle
+694;5;23;17;0;Pilotée par le modèle
+695;5;23;17;0;Pilotée par le modèle
+696;5;23;18;0;Pilotée par le modèle
+697;5;23;19;0;Pilotée par le modèle
+698;5;23;19;0;Pilotée par le modèle
+699;10;22;18;0;Pilotée par le modèle
+700;10;22;19;0;Pilotée par le modèle
+701;9;21;19;0;Pilotée par le modèle
+702;8;20;19;0;Pilotée par le modèle
+703;8;20;19;0;Pilotée par le modèle
+704;8;26;20;0;Pilotée par le modèle
+705;8;26;21;0;Pilotée par le modèle
+706;6;24;21;0;Pilotée par le modèle
+707;6;24;21;0;Pilotée par le modèle
+708;6;24;22;0;Pilotée par le modèle
+709;6;24;23;0;Pilotée par le modèle
+710;5;23;22;0;Pilotée par le modèle
+711;5;29;23;0;Pilotée par le modèle
+712;5;29;23;0;Pilotée par le modèle
+713;4;28;23;0;Pilotée par le modèle
+714;8;26;22;0;Pilotée par le modèle
+715;8;26;22;0;Pilotée par le modèle
+716;7;25;22;0;Pilotée par le modèle
+717;6;24;22;0;Pilotée par le modèle
+718;6;24;23;0;Pilotée par le modèle
+719;4;28;22;0;Pilotée par le modèle
+720;4;28;23;0;Pilotée par le modèle
+721;4;28;23;0;Pilotée par le modèle
+722;4;28;24;0;Pilotée par le modèle
+723;10;28;24;0;Pilotée par le modèle
+724;10;28;25;0;Pilotée par le modèle
+725;9;27;24;0;Pilotée par le modèle
+726;8;26;24;0;Pilotée par le modèle
+727;8;26;24;0;Pilotée par le modèle
+728;5;23;21;0;Pilotée par le modèle
+729;5;23;22;0;Pilotée par le modèle
+730;2;20;19;0;Pilotée par le modèle
+731;1;25;19;0;Pilotée par le modèle
+732;1;25;19;0;Pilotée par le modèle
+733;1;25;20;0;Pilotée par le modèle
+734;7;25;21;0;Pilotée par le modèle
+735;7;25;22;0;Pilotée par le modèle
+736;6;24;22;0;Pilotée par le modèle
+737;2;20;19;0;Pilotée par le modèle
+738;1;19;18;0;Pilotée par le modèle
+739;0;24;18;0;Pilotée par le modèle
+740;0;23;17;1;Pilotée par le modèle
+741;5;23;17;0;Pilotée par le modèle
+742;5;23;17;0;Pilotée par le modèle
+743;5;23;18;0;Pilotée par le modèle
+744;4;22;17;0;Pilotée par le modèle
+745;3;21;16;0;Pilotée par le modèle
+746;2;20;16;0;Pilotée par le modèle
+747;2;20;16;0;Pilotée par le modèle
+748;1;19;16;0;Pilotée par le modèle
+749;7;19;16;0;Pilotée par le modèle
+750;7;19;16;0;Pilotée par le modèle
+751;6;18;16;0;Pilotée par le modèle
+752;6;18;16;0;Pilotée par le modèle
+753;6;18;16;0;Pilotée par le modèle
+754;4;16;14;0;Pilotée par le modèle
+755;3;15;14;0;Pilotée par le modèle
+756;3;21;16;0;Pilotée par le modèle
+757;3;21;16;0;Pilotée par le modèle
+758;2;20;15;0;Pilotée par le modèle
+759;1;19;15;0;Pilotée par le modèle
+760;1;19;16;0;Pilotée par le modèle
+761;7;19;16;0;Pilotée par le modèle
+762;7;19;16;0;Pilotée par le modèle
+763;7;19;17;0;Pilotée par le modèle
+764;6;18;17;0;Pilotée par le modèle
+765;6;18;17;0;Pilotée par le modèle
+766;6;18;17;0;Pilotée par le modèle
+767;6;18;17;0;Pilotée par le modèle
+768;5;17;16;0;Pilotée par le modèle
+769;10;22;16;0;Pilotée par le modèle
+770;8;20;15;0;Pilotée par le modèle
+771;7;19;14;0;Pilotée par le modèle
+772;7;19;14;0;Pilotée par le modèle
+773;6;18;14;0;Pilotée par le modèle
+774;6;18;14;0;Pilotée par le modèle
+775;5;17;14;0;Pilotée par le modèle
+776;5;17;15;0;Pilotée par le modèle
+777;4;16;15;0;Pilotée par le modèle
+778;4;22;16;0;Pilotée par le modèle
+779;4;22;16;0;Pilotée par le modèle
+780;4;22;17;0;Pilotée par le modèle
+781;4;22;16;0;Pilotée par le modèle
+782;3;21;16;0;Pilotée par le modèle
+783;3;21;16;0;Pilotée par le modèle
+784;2;20;16;0;Pilotée par le modèle
+785;1;19;15;0;Pilotée par le modèle
+786;7;19;15;0;Pilotée par le modèle
+787;7;19;15;0;Pilotée par le modèle
+788;7;19;16;0;Pilotée par le modèle
+789;7;19;16;0;Pilotée par le modèle
+790;7;19;17;0;Pilotée par le modèle
+791;7;19;18;0;Pilotée par le modèle
+792;7;25;19;0;Pilotée par le modèle
+793;7;25;19;0;Pilotée par le modèle
+794;7;25;19;0;Pilotée par le modèle
+795;6;24;19;0;Pilotée par le modèle
+796;6;24;19;0;Pilotée par le modèle
+797;5;23;18;0;Pilotée par le modèle
+798;5;23;18;0;Pilotée par le modèle
+799;11;23;18;0;Pilotée par le modèle
+800;11;23;18;0;Pilotée par le modèle
+801;9;21;17;0;Pilotée par le modèle
+802;8;20;16;0;Pilotée par le modèle
+803;8;20;16;0;Pilotée par le modèle
+804;7;19;16;0;Pilotée par le modèle
+805;6;18;15;0;Pilotée par le modèle
+806;6;18;15;0;Pilotée par le modèle
+807;4;16;13;0;Pilotée par le modèle
+808;10;16;14;0;Pilotée par le modèle
+809;9;15;14;0;Pilotée par le modèle
+810;9;15;14;0;Pilotée par le modèle
+811;8;20;14;0;Pilotée par le modèle
+812;8;20;14;0;Pilotée par le modèle
+813;8;20;15;0;Pilotée par le modèle
+814;7;19;14;0;Pilotée par le modèle
+815;7;19;14;0;Pilotée par le modèle
+816;5;17;12;0;Pilotée par le modèle
+817;5;17;12;0;Pilotée par le modèle
+818;5;17;13;0;Pilotée par le modèle
+819;4;16;12;0;Pilotée par le modèle
+820;4;16;13;0;Pilotée par le modèle
+821;4;16;13;0;Pilotée par le modèle
+822;10;16;14;0;Pilotée par le modèle
+823;8;14;12;0;Pilotée par le modèle
+824;8;14;12;0;Pilotée par le modèle
+825;8;14;12;0;Pilotée par le modèle
+826;7;13;12;0;Pilotée par le modèle
+827;7;13;12;0;Pilotée par le modèle
+828;7;13;12;0;Pilotée par le modèle
+829;7;19;13;0;Pilotée par le modèle
+830;7;19;13;0;Pilotée par le modèle
+831;6;18;13;0;Pilotée par le modèle
+832;6;18;13;0;Pilotée par le modèle
+833;6;18;13;0;Pilotée par le modèle
+834;6;18;14;0;Pilotée par le modèle
+835;6;18;13;0;Pilotée par le modèle
+836;6;18;14;0;Pilotée par le modèle
+837;6;18;14;0;Pilotée par le modèle
+838;6;18;14;0;Pilotée par le modèle
+839;6;18;15;0;Pilotée par le modèle
+840;5;17;14;0;Pilotée par le modèle
+841;11;17;15;0;Pilotée par le modèle
+842;11;17;15;0;Pilotée par le modèle
+843;11;17;16;0;Pilotée par le modèle
+844;10;16;15;0;Pilotée par le modèle
+845;10;22;16;0;Pilotée par le modèle
+846;10;22;16;0;Pilotée par le modèle
+847;9;21;16;0;Pilotée par le modèle
+848;8;20;16;0;Pilotée par le modèle
+849;7;19;15;0;Pilotée par le modèle
+850;6;18;15;0;Pilotée par le modèle
+851;5;17;15;0;Pilotée par le modèle
+852;3;15;14;0;Pilotée par le modèle
+853;3;15;14;0;Pilotée par le modèle
+854;3;15;14;0;Pilotée par le modèle
+855;2;14;13;0;Pilotée par le modèle
+856;2;20;14;0;Pilotée par le modèle
+857;2;20;14;0;Pilotée par le modèle
+858;2;20;14;0;Pilotée par le modèle
+859;8;20;14;0;Pilotée par le modèle
+860;8;20;15;0;Pilotée par le modèle
+861;8;20;16;0;Pilotée par le modèle
+862;8;20;16;0;Pilotée par le modèle
+863;7;19;15;0;Pilotée par le modèle
+864;7;19;16;0;Pilotée par le modèle
+865;7;19;16;0;Pilotée par le modèle
+866;6;18;16;0;Pilotée par le modèle
+867;5;17;15;0;Pilotée par le modèle
+868;5;17;16;0;Pilotée par le modèle
+869;5;17;16;0;Pilotée par le modèle
+870;5;23;17;0;Pilotée par le modèle
+871;4;22;16;0;Pilotée par le modèle
+872;2;20;16;0;Pilotée par le modèle
+873;1;19;15;0;Pilotée par le modèle
+874;0;18;15;0;Pilotée par le modèle
+875;6;18;16;0;Pilotée par le modèle
+876;5;17;15;0;Pilotée par le modèle
+877;5;23;17;0;Pilotée par le modèle
+878;5;23;17;0;Pilotée par le modèle
+879;5;23;17;0;Pilotée par le modèle
+880;5;23;17;0;Pilotée par le modèle
+881;5;23;18;0;Pilotée par le modèle
+882;3;21;17;0;Pilotée par le modèle
+883;3;21;17;0;Pilotée par le modèle
+884;3;21;18;0;Pilotée par le modèle
+885;3;21;19;0;Pilotée par le modèle
+886;9;21;19;0;Pilotée par le modèle
+887;9;21;20;0;Pilotée par le modèle
+888;9;27;21;0;Pilotée par le modèle
+889;8;26;20;0;Pilotée par le modèle
+890;7;25;21;0;Pilotée par le modèle
+891;7;25;22;0;Pilotée par le modèle
+892;7;25;21;0;Pilotée par le modèle
+893;7;25;22;0;Pilotée par le modèle
+894;7;25;22;0;Pilotée par le modèle
+895;6;24;22;0;Pilotée par le modèle
+896;5;23;21;0;Pilotée par le modèle
+897;4;22;21;0;Pilotée par le modèle
+898;4;22;21;0;Pilotée par le modèle
+899;3;27;21;0;Pilotée par le modèle
+900;9;27;23;0;Pilotée par le modèle
+901;8;26;22;0;Pilotée par le modèle
+902;8;26;24;0;Pilotée par le modèle
+903;8;26;25;0;Pilotée par le modèle
+904;4;22;21;0;Pilotée par le modèle
+905;3;27;21;0;Pilotée par le modèle
+906;2;26;21;0;Pilotée par le modèle
+907;8;26;20;0;Pilotée par le modèle
+908;8;26;21;0;Pilotée par le modèle
+909;8;26;21;0;Pilotée par le modèle
+910;8;26;22;0;Pilotée par le modèle
+911;8;26;22;0;Pilotée par le modèle
+912;7;25;22;0;Pilotée par le modèle
+913;7;25;22;0;Pilotée par le modèle
+914;7;25;23;0;Pilotée par le modèle
+915;7;25;24;0;Pilotée par le modèle
+916;6;24;23;0;Pilotée par le modèle
+917;6;24;23;0;Pilotée par le modèle
+918;10;28;23;0;Pilotée par le modèle
+919;10;28;23;0;Pilotée par le modèle
+920;10;28;23;0;Pilotée par le modèle
+921;7;25;21;0;Pilotée par le modèle
+922;7;25;21;0;Pilotée par le modèle
+923;7;25;22;0;Pilotée par le modèle
+924;4;22;19;0;Pilotée par le modèle
+925;2;20;17;0;Pilotée par le modèle
+926;2;20;17;0;Pilotée par le modèle
+927;2;20;18;0;Pilotée par le modèle
+928;2;20;18;0;Pilotée par le modèle
+929;7;19;18;0;Pilotée par le modèle
+930;7;19;18;0;Pilotée par le modèle
+931;7;25;19;0;Pilotée par le modèle
+932;6;24;19;0;Pilotée par le modèle
+933;6;24;19;0;Pilotée par le modèle
+934;6;24;20;0;Pilotée par le modèle
+935;10;22;19;0;Pilotée par le modèle
+936;9;21;19;0;Pilotée par le modèle
+937;7;19;17;0;Pilotée par le modèle
+938;7;19;17;0;Pilotée par le modèle
+939;7;19;17;0;Pilotée par le modèle
+940;6;18;17;0;Pilotée par le modèle
+941;6;18;17;0;Pilotée par le modèle
+942;6;24;18;0;Pilotée par le modèle
+943;5;23;17;0;Pilotée par le modèle
+944;5;23;17;0;Pilotée par le modèle
+945;4;22;17;0;Pilotée par le modèle
+946;4;22;18;0;Pilotée par le modèle
+947;3;21;17;0;Pilotée par le modèle
+948;9;21;18;0;Pilotée par le modèle
+949;9;21;17;0;Pilotée par le modèle
+950;8;20;16;0;Pilotée par le modèle
+951;7;19;17;0;Pilotée par le modèle
+952;7;19;17;0;Pilotée par le modèle
+953;7;19;18;0;Pilotée par le modèle
+954;7;19;18;0;Pilotée par le modèle
+955;6;24;18;0;Pilotée par le modèle
+956;6;24;18;0;Pilotée par le modèle
+957;6;24;18;0;Pilotée par le modèle
+958;6;24;19;0;Pilotée par le modèle
+959;5;23;18;0;Pilotée par le modèle
+960;5;23;19;0;Pilotée par le modèle
+961;9;21;17;0;Pilotée par le modèle
+962;8;20;17;0;Pilotée par le modèle
+963;7;19;17;0;Pilotée par le modèle
+964;6;18;16;0;Pilotée par le modèle
+965;6;18;17;0;Pilotée par le modèle
+966;6;24;18;0;Pilotée par le modèle
+967;5;23;18;0;Pilotée par le modèle
+968;5;23;19;0;Pilotée par le modèle
+969;5;23;19;0;Pilotée par le modèle
+970;5;23;20;0;Pilotée par le modèle
+971;4;22;19;0;Pilotée par le modèle
+972;9;21;19;0;Pilotée par le modèle
+973;9;21;20;0;Pilotée par le modèle
+974;9;21;19;0;Pilotée par le modèle
+975;9;21;20;0;Pilotée par le modèle
+976;9;27;21;0;Pilotée par le modèle
+977;8;26;19;0;Pilotée par le modèle
+978;8;26;20;0;Pilotée par le modèle
+979;8;26;21;0;Pilotée par le modèle
+980;7;25;21;0;Pilotée par le modèle
+981;6;24;20;0;Pilotée par le modèle
+982;5;23;20;0;Pilotée par le modèle
+983;4;22;19;0;Pilotée par le modèle
+984;3;21;18;0;Pilotée par le modèle
+985;9;21;18;0;Pilotée par le modèle
+986;9;21;18;0;Pilotée par le modèle
+987;8;20;17;0;Pilotée par le modèle
+988;8;20;17;0;Pilotée par le modèle
+989;7;19;17;0;Pilotée par le modèle
+990;5;17;15;0;Pilotée par le modèle
+991;5;17;15;0;Pilotée par le modèle
+992;5;17;16;0;Pilotée par le modèle
+993;5;17;16;0;Pilotée par le modèle
+994;5;23;17;0;Pilotée par le modèle
+995;4;22;16;0;Pilotée par le modèle
+996;10;22;17;0;Pilotée par le modèle
+997;9;21;17;0;Pilotée par le modèle
+998;6;18;14;0;Pilotée par le modèle
+999;5;17;13;0;Pilotée par le modèle
+1000;5;17;13;0;Pilotée par le modèle
+1001;4;16;12;0;Pilotée par le modèle
+1002;4;16;13;0;Pilotée par le modèle
+1003;4;16;13;0;Pilotée par le modèle
+1004;3;15;12;0;Pilotée par le modèle
+1005;3;15;13;0;Pilotée par le modèle
+1006;9;15;13;0;Pilotée par le modèle
+1007;8;14;13;0;Pilotée par le modèle
+1008;8;14;13;0;Pilotée par le modèle
+1009;8;14;13;0;Pilotée par le modèle
+1010;8;20;14;0;Pilotée par le modèle
+1011;8;20;14;0;Pilotée par le modèle
+1012;8;20;14;0;Pilotée par le modèle
+1013;8;20;15;0;Pilotée par le modèle
+1014;8;20;15;0;Pilotée par le modèle
+1015;7;19;14;0;Pilotée par le modèle
+1016;7;19;15;0;Pilotée par le modèle
+1017;7;19;15;0;Pilotée par le modèle
+1018;7;19;15;0;Pilotée par le modèle
+1019;7;19;16;0;Pilotée par le modèle
+1020;7;19;16;0;Pilotée par le modèle
+1021;6;18;15;0;Pilotée par le modèle
+1022;5;17;14;0;Pilotée par le modèle
+1023;4;16;14;0;Pilotée par le modèle
+1024;10;16;14;0;Pilotée par le modèle
+1025;10;16;15;0;Pilotée par le modèle
+1026;10;16;15;0;Pilotée par le modèle
+1027;9;21;16;0;Pilotée par le modèle
+1028;9;21;16;0;Pilotée par le modèle
+1029;9;21;17;0;Pilotée par le modèle
+1030;9;21;18;0;Pilotée par le modèle
+1031;9;21;18;0;Pilotée par le modèle
+1032;8;20;18;0;Pilotée par le modèle
+1033;7;19;17;0;Pilotée par le modèle
+1034;7;19;18;0;Pilotée par le modèle
+1035;7;25;19;0;Pilotée par le modèle
+1036;7;25;19;0;Pilotée par le modèle
+1037;5;23;17;0;Pilotée par le modèle
+1038;4;22;17;0;Pilotée par le modèle
+1039;4;22;17;0;Pilotée par le modèle
+1040;8;20;16;0;Pilotée par le modèle
+1041;8;20;16;0;Pilotée par le modèle
+1042;8;20;16;0;Pilotée par le modèle
+1043;8;20;17;0;Pilotée par le modèle
+1044;7;19;17;0;Pilotée par le modèle
+1045;7;19;17;0;Pilotée par le modèle
+1046;7;19;18;0;Pilotée par le modèle
+1047;7;25;19;0;Pilotée par le modèle
+1048;7;25;19;0;Pilotée par le modèle
+1049;7;25;20;0;Pilotée par le modèle
+1050;7;25;20;0;Pilotée par le modèle
+1051;6;24;20;0;Pilotée par le modèle
+1052;6;24;20;0;Pilotée par le modèle
+1053;6;24;21;0;Pilotée par le modèle
+1054;4;22;19;0;Pilotée par le modèle
+1055;4;22;20;0;Pilotée par le modèle
+1056;3;21;19;0;Pilotée par le modèle
+1057;6;18;17;0;Pilotée par le modèle
+1058;6;18;17;0;Pilotée par le modèle
+1059;5;23;17;0;Pilotée par le modèle
+1060;4;22;16;0;Pilotée par le modèle
+1061;3;21;15;0;Pilotée par le modèle
+1062;2;20;15;0;Pilotée par le modèle
+1063;2;20;15;0;Pilotée par le modèle
+1064;2;20;15;0;Pilotée par le modèle
+1065;7;19;14;0;Pilotée par le modèle
+1066;7;19;15;0;Pilotée par le modèle
+1067;6;18;15;0;Pilotée par le modèle
+1068;5;17;15;0;Pilotée par le modèle
+1069;3;15;14;0;Pilotée par le modèle
+1070;3;15;14;0;Pilotée par le modèle
+1071;3;21;16;0;Pilotée par le modèle
+1072;3;21;16;0;Pilotée par le modèle
+1073;2;20;16;0;Pilotée par le modèle
+1074;2;20;16;0;Pilotée par le modèle
+1075;1;19;16;0;Pilotée par le modèle
+1076;0;18;15;0;Pilotée par le modèle
+1077;5;17;15;0;Pilotée par le modèle
+1078;5;17;15;0;Pilotée par le modèle
+1079;4;16;15;0;Pilotée par le modèle
+1080;4;22;16;0;Pilotée par le modèle
+1081;4;22;16;0;Pilotée par le modèle
+1082;4;22;16;0;Pilotée par le modèle
+1083;4;22;18;0;Pilotée par le modèle
+1084;3;21;16;0;Pilotée par le modèle
+1085;3;21;16;0;Pilotée par le modèle
+1086;3;21;17;0;Pilotée par le modèle
+1087;3;21;17;0;Pilotée par le modèle
+1088;3;21;18;0;Pilotée par le modèle
+1089;8;20;18;0;Pilotée par le modèle
+1090;6;18;16;0;Pilotée par le modèle
+1091;5;17;15;0;Pilotée par le modèle
+1092;5;17;16;0;Pilotée par le modèle
+1093;4;22;16;0;Pilotée par le modèle
+1094;3;21;15;0;Pilotée par le modèle

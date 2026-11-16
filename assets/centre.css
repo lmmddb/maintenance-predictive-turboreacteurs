@@ -1,0 +1,117 @@
+/* Style du centre de contrôle : un carnet de bord de la flotte, sous un ciel en pixel art.
+   Lu par centre_de_controle.py au démarrage. */
+
+/* Polices embarquées dans static/fonts (servies par Streamlit : enableStaticServing) */
+@font-face { font-family: "Archivo"; src: url("app/static/fonts/archivo.woff2") format("woff2");
+             font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; }
+@font-face { font-family: "Caveat"; src: url("app/static/fonts/caveat.woff2") format("woff2");
+             font-weight: 600; font-display: swap; }
+
+:root {
+  --papier: #EEF2F5;
+  --quadrillage: #DCE4EB;
+  --encre: #1B2A3A;
+  --alu: #8A97A5;     /* filets et pointillés uniquement : trop clair pour du texte */
+  --texte-2: #33475b; /* texte secondaire : contraste 6,5:1 sur le ciel, 9,6:1 sur une fiche */
+  --fiche: rgba(255, 255, 255, .93);
+  --rouge: #D6232A;    /* flamme « Remove before flight » : alertes uniquement */
+  --jaune: #F2C230;    /* balisage : à surveiller */
+  --vert: #2E7D5B;     /* RAS */
+}
+
+/* Le ciel : dégradé clair et nuages en pixel art (static/nuages.svg) qui dérivent lentement */
+.stApp {
+  background-color: #D9ECF8;
+  background-image: url("app/static/nuages.svg"), linear-gradient(#B7DAF3, #E8F3FB 70%);
+  background-size: 960px 560px, 100% 100%;
+  background-attachment: fixed;
+  animation: vent 240s linear infinite;
+}
+@keyframes vent { from { background-position: 0 0, 0 0; } to { background-position: -960px 0, 0 0; } }
+@media (prefers-reduced-motion: reduce) { .stApp { animation: none; } }
+.stApp, .stApp p, .stApp li, .stApp label, .stApp button, .stApp input {
+  font-family: "Archivo", system-ui, sans-serif;
+  color: var(--encre);
+}
+.stApp p, .stApp li { font-size: 1.04rem; line-height: 1.55; }
+.block-container { max-width: 1180px; padding-top: 2.2rem; }
+
+/* Fiches : le contenu est posé sur du blanc, les nuages ne passent jamais sous le texte */
+.fiche, [class*="st-key-fiche"] { background: var(--fiche); border: 2px solid var(--encre);
+                                  padding: 6px 18px; box-shadow: 3px 3px 0 rgba(27, 42, 58, .18); }
+[class*="st-key-fiche"] { padding: 16px 20px; }
+.stApp [data-testid="stCaptionContainer"],
+.stApp [data-testid="stCaptionContainer"] p { color: var(--texte-2) !important; font-size: .95rem; }
+.stApp [data-testid="stCaptionContainer"] { opacity: 1; }  /* Streamlit l'éclaircit à 60 % */
+/* Documents longs : lignes de 75 caractères au plus, plus confortables à lire */
+[class*="st-key-fiche_doc"] p, [class*="st-key-fiche_doc"] li { max-width: 75ch; }
+header[data-testid="stHeader"] { background: transparent; }
+
+/* Les titres en Archivo étendu, comme une plaque signalétique de moteur */
+.stApp h1, .stApp h2, .stApp h3 {
+  font-family: "Archivo", sans-serif;
+  font-stretch: 125%;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: var(--encre);
+}
+.stApp h3 { font-size: 1.15rem; margin-top: 1.4rem; }
+
+/* En-tête : titre à gauche, flamme rouge à droite */
+.entete { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px;
+          border-bottom: 3px solid var(--encre); padding-bottom: 14px; margin-bottom: 18px; }
+.entete h1 { font-size: clamp(1.7rem, 4vw, 2.8rem); line-height: 1; margin: 0; padding: 0; }
+.entete p { margin: 8px 0 0; color: var(--texte-2); font-stretch: 100%; font-size: 1.1rem; }
+.flamme { position: relative; background: var(--rouge); color: #fff; font-weight: 700;
+          padding: 10px 18px 10px 34px; transform: rotate(2deg); white-space: nowrap;
+          box-shadow: 2px 3px 0 rgba(27, 42, 58, .25); }
+.flamme::before { content: ""; position: absolute; left: 11px; top: 50%; width: 12px; height: 12px;
+                  margin-top: -6px; border-radius: 50%; background: var(--papier);
+                  border: 2px solid #b5b9bd; }  /* l'œillet de la flamme */
+.flamme small { display: block; font-weight: 400; opacity: .85; }
+
+/* Bandeau d'instruments : 4 lectures séparées par des filets, chiffres à chasse fixe */
+.instruments { display: grid; grid-template-columns: repeat(4, 1fr); background: #fff;
+               box-shadow: 3px 3px 0 rgba(27, 42, 58, .18);
+               border: 2px solid var(--encre); margin: 6px 0 4px; }
+.instruments > div { padding: 14px 18px; border-left: 1px solid var(--quadrillage); }
+.instruments > div:first-child { border-left: none; }
+.instruments b { display: block; font-size: 2rem; font-stretch: 112%; font-weight: 800;
+                 font-variant-numeric: tabular-nums; line-height: 1.1; }
+.instruments span { color: var(--texte-2); font-size: .95rem; line-height: 1.4; }
+.instruments .alerte b { color: var(--rouge); }
+@media (max-width: 760px) {
+  .instruments { grid-template-columns: repeat(2, 1fr); }
+  .instruments b { font-size: 1.5rem; white-space: nowrap; }
+  .instruments > div:nth-child(3) { border-left: none; }
+  .entete { flex-direction: column; }
+}
+
+/* La note manuscrite dans la marge : une seule par page */
+.stApp .note { font-family: "Caveat", cursive !important; font-size: 1.5rem; color: #1d4a75 !important;
+        transform: rotate(-1.5deg); margin: 2px 0 10px 8px; }
+
+/* Lignes du carnet : filet en pointillés plutôt que des cartes */
+.ligne { display: flex; justify-content: space-between; gap: 16px; padding: 9px 2px;
+         border-bottom: 1px dashed var(--alu); }
+.ligne em { font-style: normal; color: var(--texte-2); text-align: right; }
+.fiche .ligne:last-child { border-bottom: none; }
+.ok::before, .ko::before { content: ""; display: inline-block; width: 9px; height: 9px;
+                           margin-right: 9px; border-radius: 50%; background: var(--vert); }
+.ko::before { background: var(--rouge); }
+
+/* Boutons : rectangulaires, encre pleine pour l'action principale */
+.stButton button, .stDownloadButton button { border-radius: 2px; border: 2px solid var(--encre);
+                                              font-weight: 600; }
+.stButton button[kind="primary"] { background: var(--encre); color: #fff; }
+.stButton button[kind="primary"]:hover { background: var(--rouge); border-color: var(--rouge); }
+.stButton button p { color: inherit; }
+
+/* Menu du haut : l'onglet actif est encré */
+[data-testid="stButtonGroup"] button[aria-checked="true"] { background: var(--encre) !important;
+                                                           border-color: var(--encre) !important; }
+[data-testid="stButtonGroup"] button[aria-checked="true"] p { color: #fff !important; }
+
+/* Documents Markdown : titres plus sobres que ceux de l'application */
+.stMarkdown h1 { font-size: 1.9rem; }
+.stMarkdown h2 { font-size: 1.4rem; }

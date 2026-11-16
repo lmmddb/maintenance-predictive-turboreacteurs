@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#1B2A3A"
+backgroundColor = "#EEF2F5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1B2A3A"
+
+[server]
+enableStaticServing = true  # sert le dossier static/ (les polices de l'interface)
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

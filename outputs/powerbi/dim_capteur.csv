@@ -1,0 +1,13 @@
+capteur;libelle;correlation_rul
+s11;Ps30 - Pression statique sortie compresseur HP (psia);-0,718
+s4;T50 - Température sortie turbine BP (°R);-0,702
+s12;phi - Débit carburant / Ps30 (pps/psi);0,693
+s7;P30 - Pression totale sortie compresseur HP (psia);0,679
+s15;BPR - Taux de dilution;-0,666
+s21;W32 - Prélèvement refroidissement turbine BP (lbm/s);0,657
+s20;W31 - Prélèvement refroidissement turbine HP (lbm/s);0,653
+s17;htBleed - Enthalpie de prélèvement;-0,629
+s2;T24 - Température sortie compresseur BP (°R);-0,629
+s3;T30 - Température sortie compresseur HP (°R);-0,606
+s8;Nf - Vitesse physique soufflante (rpm);-0,574
+s13;NRf - Vitesse corrigée soufflante (rpm);-0,573

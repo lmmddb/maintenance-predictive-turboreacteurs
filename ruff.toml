@@ -1,0 +1,19 @@
+# Style du code (outil : ruff, `pip install ruff`)
+#   ruff format .   -> met en forme tous les fichiers .py et les notebooks
+#   ruff check .    -> signale les erreurs probables (import inutile, variable non définie...)
+line-length = 100
+extend-exclude = ["perso"]
+
+[lint]
+select = ["E", "F", "W", "I", "UP", "B"]
+ignore = [
+    "E402",  # imports après sys.path.append : voulu dans les notebooks
+    "E501",  # lignes longues : déjà gérées par le formateur ; restent les textes et commentaires
+    "E701",  # plusieurs instructions sur une ligne (a; b) : toléré pour les graphiques
+    "E702",
+    "E731",  # lambda assignée : utilisé pour de petites fonctions d'une ligne
+    "B023",  # faux positifs sur les fonctions définies dans une boucle et appelées tout de suite
+]
+
+[lint.per-file-ignores]
+"*.ipynb" = ["B018"]  # une expression seule en fin de cellule = l'affichage voulu

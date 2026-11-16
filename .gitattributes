@@ -1,0 +1,4 @@
+# Fins de ligne normalisées ; images et polices traitées comme binaires
+* text=auto
+*.png binary
+*.woff2 binary

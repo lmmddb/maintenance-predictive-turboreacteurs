@@ -1,0 +1,4 @@
+stratégie;coût par vol (€);coût annuel flotte (M€);déposes non planifiées (sur 100);vie utilisée (%)
+Réactive;2762,83;100,84;100;100,0
+Intervalle fixe (T = 152);2109,55;77,0;7;73,27
+Prédictive (marge 10);1556,82;56,82;0;93,4
