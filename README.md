@@ -29,6 +29,9 @@ Données : **NASA C-MAPSS**, sous-ensemble FD001 (100 moteurs suivis jusqu'à la
 
 Chaque notebook explique ses choix pour un lecteur non spécialiste et vérifie ses calculs sur des cas connus (cellules ✅).
 
+![Carte du projet : des fichiers NASA aux décisions](docs/images/carte_du_projet.svg)
+
+Le notebook 02 est le pivot : il entraîne le modèle et enregistre ses prédictions sur le train, que les notebooks 03, 04 et 05 relisent. Chaque notebook écrit ses tables dans `outputs/powerbi`, que Power BI et l'interface lisent ensuite.
 ## Structure
 
 ```
